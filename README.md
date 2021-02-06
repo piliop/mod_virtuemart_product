@@ -9,3 +9,6 @@ using "Tiny slider" https://github.com/ganlanyuan/tiny-slider
 Requires
 1) Bootatrap 4.x
 2) fontawesome.com 5.x 
+
+
+Fill free to contribute
