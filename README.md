@@ -1,4 +1,4 @@
-# mod_virtuemart_product
+# mod_virtuemart_product (module override)
 
 Virtuemart 3.x mod_virtuemart_product (module override) using "Tiny slider" https://github.com/ganlanyuan/tiny-slider
 
