@@ -8,4 +8,5 @@ Requires
 1) Bootatrap 4.x
 2) fontawesome.com 5.x 
 
-Fill free to contribute
+Feal free to contribute
+
